@@ -1,0 +1,10 @@
+{
+    "const": {
+        "servername": "aXios RP"
+    },
+    "phone": {
+        "main": {
+            "control": "관리"
+        }
+    }
+}
