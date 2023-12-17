@@ -4,7 +4,30 @@
     },
     "phone": {
         "main": {
-            "control": "관리"
+            "control": "관리",
+            "bag": "가방",
+            "info": "내 정보",
+            "phone": "전화",
+            "police": "경찰",
+            "vehicle": "차량",
+            "giveMoney": "현금 주기",
+            "reloadWeapon": "무기 재장착",
+            "blacklist": "블랙리스트",
+            "cancelMission": "미션 취소",
+            "revive": "살리기",
+            "openTrunkRequest": "트렁크 열기 요청",
+            "player": "플레이어"
+        },
+        "control": {
+            "toggleCrosshair": "에임점 [활성화/비활성화]",
+            "changeCrosshair": "에임점 설정 변경",
+            "resetCrosshair": "에임점 초기화",
+            "callCenter": "고객센터",
+            "callHelper": "인게임 관리자 호출",
+            "toggleDrugMission": "마약 미션 [ON/OFF]",
+            "toggleCounterfeitMission": "위폐 미션 [ON/OFF]",
+            "appointAndDismiss": "임명&해임",
+            "vehicle": "차량관련"
         }
     }
 }
