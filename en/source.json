@@ -4,27 +4,27 @@
     },
     "phone": {
         "main": {
-            "control": "관리",
-            "bag": "가방",
-            "info": "내 정보",
-            "phone": "전화",
-            "police": "경찰",
-            "vehicle": "차량",
+            "control": "Management",
+            "bag": "Bag",
+            "info": "My info",
+            "phone": "Call",
+            "police": "Police",
+            "vehicle": "Vehicle",
             "giveMoney": "현금 주기",
             "reloadWeapon": "무기 재장착",
-            "blacklist": "블랙리스트",
-            "cancelMission": "미션 취소",
-            "revive": "살리기",
+            "blacklist": "Blacklist",
+            "cancelMission": "Cancel mission",
+            "revive": "Revive",
             "openTrunkRequest": "트렁크 열기 요청",
-            "player": "플레이어"
+            "player": "Player"
         },
         "control": {
-            "toggleCrosshair": "에임점 [활성화/비활성화]",
-            "changeCrosshair": "에임점 설정 변경",
-            "resetCrosshair": "에임점 초기화",
+            "toggleCrosshair": "Crosshair [Enable/Disable]",
+            "changeCrosshair": "Crosshair setting",
+            "resetCrosshair": "Reset crosshair",
             "callCenter": "고객센터",
             "callHelper": "인게임 관리자 호출",
-            "toggleDrugMission": "마약 미션 [ON/OFF]",
+            "toggleDrugMission": "Drug mission [ON/OFF]",
             "toggleCounterfeitMission": "위폐 미션 [ON/OFF]",
             "appointAndDismiss": "임명&해임",
             "vehicle": "차량관련"
@@ -32,24 +32,24 @@
     },
     "chat": {
         "type": {
-            "ooc": "전체 채팅",
-            "rp": "RP 채팅",
-            "local": "일반 채팅"
+            "ooc": "All",
+            "rp": "\bRP",
+            "local": "General"
         },
         "placeholder": {
-            "open": "T키를 눌러 채팅을 입력하세요",
-            "tab": "Tab을 눌러 보낼 채널을 변경하세요."
+            "open": "Press T to chat",
+            "tab": "Press Tab to switch channel"
         }
     },
     "escm": {
         "phone": "전화번호",
         "bank": "계좌번호",
         "uid": "고유번호",
-        "continue": "게속하기",
+        "continue": "Continue",
         "settings": "Settings",
         "gtasettings": "Settings (GTA)",
         "gtamap": "Map (GTA)",
-        "exit": "나가기"
+        "exit": "Exit"
     },
     "dmgviewer": {
         "hitdamage": "[ HIT DAMAGE ]"
