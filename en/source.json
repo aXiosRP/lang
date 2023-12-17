@@ -53,5 +53,11 @@
     },
     "dmgviewer": {
         "hitdamage": "[ HIT DAMAGE ]"
+    },
+    "tutorial": {
+        "nick": {
+            "title": "닉네임이 무엇인가요?",
+            "desc": "다른 사람에게 피해를 주거나 불쾌감을 주는 닉네임은 자제해주세요."
+        }
     }
 }
